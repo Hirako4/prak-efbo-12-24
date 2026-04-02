@@ -56,9 +56,3 @@
 
 ---
 
-## 🚀 Инструкция по запуску
-
-### 1. Склонируйте репозиторий
-```bash
-git clone [https://github.com/Kaiperkir/prak-efbo-12-24.git](https://github.com/Kaiperkir/prak-efbo-12-24.git)
-cd prak-efbo-12-24
